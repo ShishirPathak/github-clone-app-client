@@ -1,4 +1,4 @@
-# GitHub Repo Cloner
+# Github Clone App Client
 
 GitHub Repo Cloner is a simple user friendly web application that allows users to fetch and clone public repositories from a specified GitHub user. This project is built with React for the frontend and Node.js/Express for the backend [https://github.com/ShishirPathak/github-clone-app-server].
 
