@@ -22,13 +22,13 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ShishirPathak/github-clone-app-client
    
 
 2. Navigate to the project directory:
 
     ```bash
-    cd <repository-directory>
+    cd github-clone-app-client
 
 3. Install the dependencies:
 
